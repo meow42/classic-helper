@@ -1,0 +1,1 @@
+import{o as a,c as e,w as s,a as r,d as o,g as t,f as d}from"./index.7e84b2b6.js";import{_ as n}from"./plugin-vue_export-helper.21dcd24c.js";var c=n({},[["render",function(n,c){const f=t,l=d;return a(),e(l,{class:"info"},{default:s((()=>[r(f,null,{default:s((()=>[o("功能开发中...")])),_:1})])),_:1})}],["__scopeId","data-v-4624be8c"]]);export{c as default};
